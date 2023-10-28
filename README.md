@@ -5,5 +5,5 @@ Especificações:<br />
 Python: Versão 3<br />
 Zabbix: Versão 6.4.7<br />
 
-#Criando o Python Script<br />
+# Criando o Python Script<br />
 Neste laborário nosso script estará sendo executado direto no servidor do zabbix. Par
