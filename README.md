@@ -11,4 +11,6 @@ Server: Ubuntu server 22.04.3 LTS<br />
 Neste laborário nosso script estará sendo executado direto no servidor do Zabbix. Para melhor organizar iremos inicialmente criar um diretório para armazenar os scripts que desejamos integrar com o Zabbix.<br />
 No meu caso criei o diretório Zabbix na Home:<br />
 
+<pre class="notranslate"><code class="notranslate">mkdir /home/zabbix/
+</code></pre>
 <code class="notranslate">mkdir /home/zabbix/</code>
