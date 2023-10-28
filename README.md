@@ -13,4 +13,9 @@ No meu caso criei o diretório Zabbix na Home:<br />
 
 <pre class="notranslate"><code class="notranslate">mkdir /home/zabbix/
 </code></pre>
-<code class="notranslate">mkdir /home/zabbix/</code>
+
+No nosso laboratório vamos criar um script que checa a conexão com determinado site e apreseta o retorno da mesma. Logo, com o diretório já criado iremos criar o arquivo do nosso script Python:<br />
+
+Navegue até a pasta do arquivo:<br />
+<pre class="notranslate"><code class="notranslate">cd /home/zabbix
+</code></pre>
